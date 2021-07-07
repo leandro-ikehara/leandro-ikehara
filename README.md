@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 Sou Leandro Ikehara, 38 anos, paulistano da zona sul, graduado em Sistemas de Informação pela Faculdade Impacta de Tecnologia em 2015, mas ainda me considero iniciante/Jr.
-Desenvolvedor Jr na RD, em treinamento.
-Agradeço a Alura pelos treinamentos e por aprender a utilizar o GitHub de forma eficiente.
-Bem-vindos!
+<br>Desenvolvedor Jr na RD, em treinamento pelo programa #QueroSerDev.
+<br>Bem-vindos!
 
 <!--
 **leandro-ikehara/leandro-ikehara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
