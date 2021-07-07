@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Sou Leandro Ikehara, 37 anos, paulistano da zona sul, graduado em Sistemas de Informação pela Faculdade Impacta de Tecnologia em 2015, mas ainda me considero iniciante/Jr.
+Sou Leandro Ikehara, 38 anos, paulistano da zona sul, graduado em Sistemas de Informação pela Faculdade Impacta de Tecnologia em 2015, mas ainda me considero iniciante/Jr.
+Desenvolvedor Jr na RD, em treinamento.
 Agradeço a Alura pelos treinamentos e por aprender a utilizar o GitHub de forma eficiente.
 Bem-vindos!
 
