@@ -1,11 +1,15 @@
-### Hi there 👋
+# LEANDRO IKEHARA
 
-Sou Leandro Ikehara, 38 anos, paulistano da zona sul, graduado em Sistemas de Informação pela Faculdade Impacta de Tecnologia em 2015, mas ainda me considero iniciante/Jr.
-<br>Desenvolvedor Jr na RD, em treinamento pelo programa #QueroSerDev.
+Sou Leandro Ikehara, 38 anos, paulistano da zona sul, graduado em Sistemas de Informação pela Faculdade Impacta de Tecnologia e Turismo, pela Universidade Anhembi-Morumbi.
+<br>Desenvolvedor Jr em treinamento, na RD (Raia-Drogasil) pelo programa #QueroSerDev.
 <br>Bem-vindos!
+
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=leandro-ikehara&show_icons=true&theme=tokyonight"/> <img width="335px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leandro-ikehara&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <!--
 **leandro-ikehara/leandro-ikehara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
