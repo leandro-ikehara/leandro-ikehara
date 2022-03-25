@@ -1,6 +1,7 @@
 ## Fala, devs! LEANDRO IKEHARA aqui!
 
-Paulistano da zona sul, graduado em Sistemas de Informação pela Faculdade Impacta de Tecnologia e em Turismo, pela Universidade Anhembi-Morumbi. Participei do treinamento full-stack #QueroSerDev da RD (Raia-Drogasil) e atualmente estudando novas tecnologias. Sejam bem-vindos ao meu perfil e "forkem" o que precisarem! 
+Paulistano da zona sul, graduado em Sistemas de Informação pela Faculdade Impacta de Tecnologia e em Turismo, pela Universidade Anhembi-Morumbi. Participei do treinamento full-stack #QueroSerDev da RD (Raia-Drogasil) e atualmente atuando com JavaFX e Angular na Beontag/Rastreabilidade Brasil. 
+Sejam bem-vindos ao meu perfil e "forkem" o que precisarem! 
 <br>Obrigado!
 
 <div style="align-item: center">
